@@ -1,2 +1,2 @@
-# Teste_2
-Tentando usar git
+# Teste
+Aprendendo a usar git/github
